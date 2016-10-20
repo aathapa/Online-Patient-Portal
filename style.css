@@ -8,6 +8,9 @@
 }
 /* Header star */
 
+a{
+    color: inherit;
+}
 
 .fa{
     margin-left: 3px;
@@ -50,7 +53,7 @@
 }
 
 .text-shrink{
-    line-height: 3px;
+    line-height: 1px;
 }
 
 .top-20{
@@ -60,9 +63,15 @@
 .block-row{
     margin-top: 30px;
 }
-.second-div-about{
-    height: 360px;
-}
+
 .third-div-connect{
     background-image: url("images/devices.png");
+}
+.fifth-div-follow{
+    background-color: #E8EAF6;
+    height: 220px;
+}
+.social-site-font{
+    font-size: 10px;
+    margin-left: 10px;
 }
