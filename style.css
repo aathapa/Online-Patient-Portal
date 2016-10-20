@@ -57,3 +57,12 @@
     margin-top: 20px;
 }
 
+.block-row{
+    margin-top: 30px;
+}
+.second-div-about{
+    height: 360px;
+}
+.third-div-connect{
+    background-image: url("images/devices.png");
+}
