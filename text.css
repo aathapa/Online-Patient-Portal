@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "Raleway-Medium";
+    src: url('fonts/Raleway-Medium.ttf');
+}
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url("fonts/Raleway-Regular.ttf");
+}
+
+.text-intro{
+    font-family: Raleway-Medium;
+}
+.text-desc{
+    font-family: Raleway-Regular;
+}
+.text-white{
+    color: #ffffff;
+}
+.text-size-content{
+    font-size: 27px;
+
+}

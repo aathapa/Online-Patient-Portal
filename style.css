@@ -1,0 +1,59 @@
+@font-face {
+    font-family: "Raleway-Medium";
+    src: url('fonts/Raleway-Medium.ttf');
+}
+@font-face {
+    font-family: "Raleway-Regular";
+    src: url("fonts/Raleway-Regular.ttf");
+}
+/* Header star */
+
+
+.fa{
+    margin-left: 3px;
+}
+.content{
+    padding-left: 15%;
+}
+#blocks{
+    margin-left: -13px;
+}
+
+.blocks{
+    width: 100%;
+    height: 175px;
+    background-color: #3498db;
+    text-align: center;
+    color: white;
+    font-family: Raleway-Regular;
+    font-size: 14px;
+    display: table;
+    margin-bottom: 20px;
+}
+
+.blocks h5{
+    display: table-cell;
+    vertical-align: middle;
+}
+/*About Us end */
+
+/*Connect Start*/
+
+.bg-header-image{
+    background: url("images/Untitled-1.png");
+    background-size: cover;
+    min-height: 450px ;
+}
+
+.header-text-content{
+    margin-top: 4em;
+}
+
+.text-shrink{
+    line-height: 3px;
+}
+
+.top-20{
+    margin-top: 20px;
+}
+

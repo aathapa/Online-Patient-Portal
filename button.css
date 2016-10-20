@@ -1,0 +1,28 @@
+.btn-main{
+    background: #3D5AFE;
+    color: #fff;
+
+}
+
+.btn-main:hover{
+    background: #304FFE;
+    color: #fff;
+}
+
+.btn-plain{
+    color: #fff;
+}
+.btn-plain:hover{
+    background: #3D5AFE ;
+    text-decoration: none;
+}
+
+.btn-outline{
+    border: 1px solid white;
+    padding: 10px 20px;
+}
+.btn-flat{
+    border-radius:0 ;
+    -moz-border-radius: 0;
+    -webkit-border-radius: 0;
+}
