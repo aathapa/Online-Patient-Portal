@@ -1,5 +1,5 @@
 .btn-main{
-    background: #3D5AFE;
+    background: #3498db;
     color: #fff;
 
 }
@@ -13,7 +13,7 @@
     color: #fff;
 }
 .btn-plain:hover{
-    background: #3D5AFE ;
+    background: #3498db ;
     text-decoration: none;
 }
 
