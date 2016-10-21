@@ -4,10 +4,21 @@ a{  text-decoration: none;  }
 .top-bar{
     background-color: #3498db;
 }
-.user-bar:hover{
+.user-home{
+    margin-left: 0;
+}
+.user-home:hover{
     text-decoration: none;
 
 }
-.ac{
+.user-account{
+    margin-top: 10px;
+}
 
+.text-navbar{
+    color: black;
+}
+.text-navbar:hover{
+    text-decoration: none;
+    background-color: #9E9E9E;
 }
