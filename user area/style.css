@@ -28,6 +28,10 @@
     padding: 10px;
 }
 
+#active a{
+    background-color: #757575;
+    color: white;
+}
 .user-nav ul li a:hover {
     transition:  0.4s;
     color: white;
