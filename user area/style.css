@@ -12,15 +12,20 @@
     margin-top: 10px;
 }
 .user-navbar {
-    background-color: #cccccc;
+    background-color: #BDBDBD;
 }
 .text-nav li a {
-    padding-left: 15px;
     color: black;
+    padding: 10px;
 }
-.text-nav li a:hover {
+
+.user-nav ul li a:hover {
     color: white;
+    background-color: #9E9E9E;
 }
 .text-nav a:hover{
     text-decoration: none;
 }
+.user-nav ul li{
+    padding: 5px;
+    margin-top: 5px;
