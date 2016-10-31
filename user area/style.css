@@ -20,6 +20,7 @@
 }
 
 .user-nav ul li a:hover {
+    transition:  0.4s;
     color: white;
     background-color: #757575;
 }
@@ -38,5 +39,5 @@
 .blocks{
     height: 175px;
     background-color: #3498db;
-    margin-bottom: 10px;
+    margin-bottom: 30px;
 }
