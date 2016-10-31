@@ -21,11 +21,22 @@
 
 .user-nav ul li a:hover {
     color: white;
-    background-color: #9E9E9E;
+    background-color: #757575;
 }
 .text-nav a:hover{
     text-decoration: none;
 }
-.user-nav ul li{
+.user-nav ul li {
     padding: 5px;
     margin-top: 5px;
+}
+
+.quick-links{
+    margin-top: 50px;
+}
+
+.blocks{
+    height: 175px;
+    background-color: #3498db;
+    margin-bottom: 10px;
+}
