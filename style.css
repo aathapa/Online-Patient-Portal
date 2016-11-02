@@ -72,3 +72,6 @@ a{
     font-size: 10px;
     margin-left: 10px;
 }
+.social-site a:hover{
+  opacity: 0.8;
+}
